@@ -1,5 +1,4 @@
-
-/*
+//javascript program to count repeated character.
 const maxChar = (string) => {
     let object = {}
     for (let charater of string) {
@@ -8,4 +7,3 @@ const maxChar = (string) => {
     return object;
 
 }
-*/
